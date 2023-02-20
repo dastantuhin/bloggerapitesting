@@ -1,0 +1,208 @@
+{
+    "rank": [
+      {
+        "id": "2",
+        "rank": "1",
+        "name": "India",
+        "rating": "114",
+        "matches": "44",
+        "points": "5010",
+        "lastUpdatedOn": "2023-02-19",
+        "imageId": "172115"
+      },
+      {
+        "id": "4",
+        "rank": "2",
+        "name": "Australia",
+        "rating": "112",
+        "matches": "32",
+        "points": "3572",
+        "lastUpdatedOn": "2023-02-19",
+        "imageId": "172117"
+      },
+      {
+        "id": "13",
+        "rank": "3",
+        "name": "New Zealand",
+        "rating": "111",
+        "matches": "29",
+        "points": "3229",
+        "lastUpdatedOn": "2023-02-19",
+        "imageId": "172128"
+      },
+      {
+        "id": "9",
+        "rank": "4",
+        "name": "England",
+        "rating": "111",
+        "matches": "33",
+        "points": "3656",
+        "lastUpdatedOn": "2023-02-19",
+        "imageId": "172123"
+      },
+      {
+        "id": "3",
+        "rank": "5",
+        "name": "Pakistan",
+        "rating": "106",
+        "matches": "25",
+        "points": "2649",
+        "lastUpdatedOn": "2023-02-19",
+        "imageId": "172116"
+      },
+      {
+        "id": "11",
+        "rank": "6",
+        "name": "South Africa",
+        "rating": "103",
+        "matches": "27",
+        "points": "2775",
+        "lastUpdatedOn": "2023-02-19",
+        "imageId": "172126"
+      },
+      {
+        "id": "6",
+        "rank": "7",
+        "name": "Bangladesh",
+        "rating": "95",
+        "matches": "33",
+        "points": "3129",
+        "lastUpdatedOn": "2023-02-19",
+        "imageId": "172120"
+      },
+      {
+        "id": "5",
+        "rank": "8",
+        "name": "Sri Lanka",
+        "rating": "88",
+        "matches": "34",
+        "points": "2976",
+        "lastUpdatedOn": "2023-02-19",
+        "imageId": "172119"
+      },
+      {
+        "id": "96",
+        "rank": "9",
+        "name": "Afghanistan",
+        "rating": "71",
+        "matches": "20",
+        "points": "1419",
+        "lastUpdatedOn": "2023-02-19",
+        "imageId": "172188"
+      },
+      {
+        "id": "10",
+        "rank": "10",
+        "name": "West Indies",
+        "rating": "71",
+        "matches": "41",
+        "points": "2902",
+        "lastUpdatedOn": "2023-02-19",
+        "imageId": "172124"
+      },
+      {
+        "id": "27",
+        "rank": "11",
+        "name": "Ireland",
+        "rating": "52",
+        "matches": "25",
+        "points": "1300",
+        "lastUpdatedOn": "2023-02-19",
+        "imageId": "172141"
+      },
+      {
+        "id": "23",
+        "rank": "12",
+        "name": "Scotland",
+        "rating": "47",
+        "matches": "31",
+        "points": "1459",
+        "lastUpdatedOn": "2023-02-19",
+        "imageId": "172137"
+      },
+      {
+        "id": "12",
+        "rank": "13",
+        "name": "Zimbabwe",
+        "rating": "43",
+        "matches": "28",
+        "points": "1201",
+        "lastUpdatedOn": "2023-02-19",
+        "imageId": "172127"
+      },
+      {
+        "id": "161",
+        "rank": "14",
+        "name": "Namibia",
+        "rating": "35",
+        "matches": "27",
+        "points": "937",
+        "lastUpdatedOn": "2023-02-19",
+        "imageId": "172229"
+      },
+      {
+        "id": "24",
+        "rank": "15",
+        "name": "Netherlands",
+        "rating": "32",
+        "matches": "21",
+        "points": "673",
+        "lastUpdatedOn": "2023-02-19",
+        "imageId": "172138"
+      },
+      {
+        "id": "304",
+        "rank": "16",
+        "name": "Oman",
+        "rating": "31",
+        "matches": "30",
+        "points": "919",
+        "lastUpdatedOn": "2023-02-19",
+        "imageId": "172353"
+      },
+      {
+        "id": "7",
+        "rank": "17",
+        "name": "UAE",
+        "rating": "28",
+        "matches": "25",
+        "points": "693",
+        "lastUpdatedOn": "2023-02-19",
+        "imageId": "172121"
+      },
+      {
+        "id": "15",
+        "rank": "18",
+        "name": "United States",
+        "rating": "26",
+        "matches": "31",
+        "points": "821",
+        "lastUpdatedOn": "2023-02-19",
+        "imageId": "172130"
+      },
+      {
+        "id": "72",
+        "rank": "19",
+        "name": "Nepal",
+        "rating": "19",
+        "matches": "29",
+        "points": "543",
+        "lastUpdatedOn": "2023-02-19",
+        "imageId": "172169"
+      },
+      {
+        "id": "287",
+        "rank": "20",
+        "name": "Papua New Guinea",
+        "rating": "4",
+        "matches": "30",
+        "points": "128",
+        "lastUpdatedOn": "2023-02-19",
+        "imageId": "172336"
+      }
+    ],
+    "appIndex": {
+      "seoTitle": "ICC Cricket Rankings - Top 100 Batsmen | Cricbuzz.com",
+      "webURL": "www.cricbuzz.com/cricket-stats/icc-rankings"
+    }
+  }

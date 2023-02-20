@@ -1,0 +1,635 @@
+{
+    "matchScheduleMap": [
+      {
+        "scheduleAdWrapper": {
+          "date": "MON, FEB 20 2023",
+          "matchScheduleList": [
+            {
+              "seriesName": "ICC Cricket World Cup League Two 2019-23",
+              "matchInfo": [
+                {
+                  "matchId": 65382,
+                  "seriesId": 2834,
+                  "matchDesc": "5th Match",
+                  "matchFormat": "ODI",
+                  "startDate": "1676862900000",
+                  "endDate": "1676937599000",
+                  "team1": {
+                    "teamId": 23,
+                    "teamName": "Scotland",
+                    "teamSName": "SCO",
+                    "imageId": 172137
+                  },
+                  "team2": {
+                    "teamId": 161,
+                    "teamName": "Namibia",
+                    "teamSName": "NAM",
+                    "imageId": 172229
+                  },
+                  "venueInfo": {
+                    "ground": "Tribhuvan University International Cricket Ground",
+                    "city": "Kirtipur",
+                    "country": "Nepal",
+                    "timezone": "+05:45"
+                  }
+                }
+              ],
+              "seriesId": 2834,
+              "seriesHomeCountry": 1,
+              "seriesCategory": "International"
+            }
+          ],
+          "longDate": "1676851200000"
+        }
+      },
+      {
+        "adDetail": {
+          "name": "native_news_index_random_1",
+          "layout": "native_large",
+          "position": 1
+        }
+      },
+      {
+        "scheduleAdWrapper": {
+          "date": "TUE, FEB 21 2023",
+          "matchScheduleList": [
+            {
+              "seriesName": "West Indies tour of South Africa, 2023",
+              "matchInfo": [
+                {
+                  "matchId": 65781,
+                  "seriesId": 4854,
+                  "matchDesc": "4-day Practice Match, Day 1",
+                  "matchFormat": "TEST",
+                  "startDate": "1676966400000",
+                  "endDate": "1677283199000",
+                  "team1": {
+                    "teamId": 267,
+                    "teamName": "South African Invitation XI",
+                    "teamSName": "RSAIXI",
+                    "imageId": 172320
+                  },
+                  "team2": {
+                    "teamId": 10,
+                    "teamName": "West Indies",
+                    "teamSName": "WI",
+                    "isFullMember": true,
+                    "imageId": 172124
+                  },
+                  "venueInfo": {
+                    "ground": "Willowmoore Park",
+                    "city": "Benoni",
+                    "country": "South Africa",
+                    "timezone": "+02:00"
+                  }
+                }
+              ],
+              "seriesId": 4854,
+              "seriesHomeCountry": 1,
+              "seriesCategory": "International"
+            },
+            {
+              "seriesName": "ICC Cricket World Cup League Two 2019-23",
+              "matchInfo": [
+                {
+                  "matchId": 65385,
+                  "seriesId": 2834,
+                  "matchDesc": "6th Match",
+                  "matchFormat": "ODI",
+                  "startDate": "1676949300000",
+                  "endDate": "1677023999000",
+                  "team1": {
+                    "teamId": 72,
+                    "teamName": "Nepal",
+                    "teamSName": "NEP",
+                    "imageId": 172169
+                  },
+                  "team2": {
+                    "teamId": 23,
+                    "teamName": "Scotland",
+                    "teamSName": "SCO",
+                    "imageId": 172137
+                  },
+                  "venueInfo": {
+                    "ground": "Tribhuvan University International Cricket Ground",
+                    "city": "Kirtipur",
+                    "country": "Nepal",
+                    "timezone": "+05:45"
+                  }
+                }
+              ],
+              "seriesId": 2834,
+              "seriesHomeCountry": 1,
+              "seriesCategory": "International"
+            }
+          ],
+          "longDate": "1676937600000"
+        }
+      },
+      {
+        "scheduleAdWrapper": {
+          "date": "WED, FEB 22 2023",
+          "matchScheduleList": [
+            {
+              "seriesName": "West Indies tour of South Africa, 2023",
+              "matchInfo": [
+                {
+                  "matchId": 65781,
+                  "seriesId": 4854,
+                  "matchDesc": "4-day Practice Match, Day 2",
+                  "matchFormat": "TEST",
+                  "startDate": "1677052800000",
+                  "endDate": "1677283199000",
+                  "team1": {
+                    "teamId": 267,
+                    "teamName": "South African Invitation XI",
+                    "teamSName": "RSAIXI",
+                    "imageId": 172320
+                  },
+                  "team2": {
+                    "teamId": 10,
+                    "teamName": "West Indies",
+                    "teamSName": "WI",
+                    "isFullMember": true,
+                    "imageId": 172124
+                  },
+                  "venueInfo": {
+                    "ground": "Willowmoore Park",
+                    "city": "Benoni",
+                    "country": "South Africa",
+                    "timezone": "+02:00"
+                  }
+                }
+              ],
+              "seriesId": 4854,
+              "seriesHomeCountry": 1,
+              "seriesCategory": "International"
+            }
+          ],
+          "longDate": "1677024000000"
+        }
+      },
+      {
+        "scheduleAdWrapper": {
+          "date": "THU, FEB 23 2023",
+          "matchScheduleList": [
+            {
+              "seriesName": "West Indies tour of South Africa, 2023",
+              "matchInfo": [
+                {
+                  "matchId": 65781,
+                  "seriesId": 4854,
+                  "matchDesc": "4-day Practice Match, Day 3",
+                  "matchFormat": "TEST",
+                  "startDate": "1677139200000",
+                  "endDate": "1677283199000",
+                  "team1": {
+                    "teamId": 267,
+                    "teamName": "South African Invitation XI",
+                    "teamSName": "RSAIXI",
+                    "imageId": 172320
+                  },
+                  "team2": {
+                    "teamId": 10,
+                    "teamName": "West Indies",
+                    "teamSName": "WI",
+                    "isFullMember": true,
+                    "imageId": 172124
+                  },
+                  "venueInfo": {
+                    "ground": "Willowmoore Park",
+                    "city": "Benoni",
+                    "country": "South Africa",
+                    "timezone": "+02:00"
+                  }
+                }
+              ],
+              "seriesId": 4854,
+              "seriesHomeCountry": 1,
+              "seriesCategory": "International"
+            },
+            {
+              "seriesName": "ICC Cricket World Cup League Two 2019-23",
+              "matchInfo": [
+                {
+                  "matchId": 65392,
+                  "seriesId": 2834,
+                  "matchDesc": "1st Match (Rescheduled)",
+                  "matchFormat": "ODI",
+                  "startDate": "1677130200000",
+                  "endDate": "1677196799000",
+                  "team1": {
+                    "teamId": 7,
+                    "teamName": "United Arab Emirates",
+                    "teamSName": "UAE",
+                    "imageId": 172121
+                  },
+                  "team2": {
+                    "teamId": 161,
+                    "teamName": "Namibia",
+                    "teamSName": "NAM",
+                    "imageId": 172229
+                  },
+                  "venueInfo": {
+                    "ground": "Dubai International Cricket Stadium",
+                    "city": "Dubai",
+                    "country": "United Arab Emirates",
+                    "timezone": "+04:00"
+                  }
+                }
+              ],
+              "seriesId": 2834,
+              "seriesHomeCountry": 1,
+              "seriesCategory": "International"
+            }
+          ],
+          "longDate": "1677110400000"
+        }
+      },
+      {
+        "adDetail": {
+          "name": "native_news_index_random_2",
+          "layout": "native_large",
+          "position": 4
+        }
+      },
+      {
+        "scheduleAdWrapper": {
+          "date": "FRI, FEB 24 2023",
+          "matchScheduleList": [
+            {
+              "seriesName": "England tour of New Zealand, 2023",
+              "matchInfo": [
+                {
+                  "matchId": 49563,
+                  "seriesId": 4413,
+                  "matchDesc": "2nd Test, Day 1",
+                  "matchFormat": "TEST",
+                  "startDate": "1677189600000",
+                  "endDate": "1677628799000",
+                  "team1": {
+                    "teamId": 13,
+                    "teamName": "New Zealand",
+                    "teamSName": "NZ",
+                    "isFullMember": true,
+                    "imageId": 172128
+                  },
+                  "team2": {
+                    "teamId": 9,
+                    "teamName": "England",
+                    "teamSName": "ENG",
+                    "isFullMember": true,
+                    "imageId": 172123
+                  },
+                  "venueInfo": {
+                    "ground": "Basin Reserve",
+                    "city": "Wellington",
+                    "country": "New Zealand",
+                    "timezone": "+13:00"
+                  }
+                }
+              ],
+              "seriesId": 4413,
+              "seriesHomeCountry": 1,
+              "seriesCategory": "International"
+            },
+            {
+              "seriesName": "West Indies tour of South Africa, 2023",
+              "matchInfo": [
+                {
+                  "matchId": 65781,
+                  "seriesId": 4854,
+                  "matchDesc": "4-day Practice Match, Day 4",
+                  "matchFormat": "TEST",
+                  "startDate": "1677225600000",
+                  "endDate": "1677283199000",
+                  "team1": {
+                    "teamId": 267,
+                    "teamName": "South African Invitation XI",
+                    "teamSName": "RSAIXI",
+                    "imageId": 172320
+                  },
+                  "team2": {
+                    "teamId": 10,
+                    "teamName": "West Indies",
+                    "teamSName": "WI",
+                    "isFullMember": true,
+                    "imageId": 172124
+                  },
+                  "venueInfo": {
+                    "ground": "Willowmoore Park",
+                    "city": "Benoni",
+                    "country": "South Africa",
+                    "timezone": "+02:00"
+                  }
+                }
+              ],
+              "seriesId": 4854,
+              "seriesHomeCountry": 1,
+              "seriesCategory": "International"
+            },
+            {
+              "seriesName": "Isle of Man tour of Spain, 2023",
+              "matchInfo": [
+                {
+                  "matchId": 65126,
+                  "seriesId": 5847,
+                  "matchDesc": "1st T20I",
+                  "matchFormat": "T20",
+                  "startDate": "1677229200000",
+                  "endDate": "1677283199000",
+                  "team1": {
+                    "teamId": 523,
+                    "teamName": "Spain",
+                    "teamSName": "Spain",
+                    "imageId": 248450
+                  },
+                  "team2": {
+                    "teamId": 557,
+                    "teamName": "Isle of Man",
+                    "teamSName": "IOM",
+                    "imageId": 172609
+                  },
+                  "venueInfo": {
+                    "ground": "La Manga Club Bottom Ground",
+                    "city": "Cartagena, Murcia",
+                    "country": "Spain",
+                    "timezone": "+02:00"
+                  }
+                },
+                {
+                  "matchId": 65130,
+                  "seriesId": 5847,
+                  "matchDesc": "2nd T20I",
+                  "matchFormat": "T20",
+                  "startDate": "1677244500000",
+                  "endDate": "1677283199000",
+                  "team1": {
+                    "teamId": 523,
+                    "teamName": "Spain",
+                    "teamSName": "Spain",
+                    "imageId": 248450
+                  },
+                  "team2": {
+                    "teamId": 557,
+                    "teamName": "Isle of Man",
+                    "teamSName": "IOM",
+                    "imageId": 172609
+                  },
+                  "venueInfo": {
+                    "ground": "La Manga Club Bottom Ground",
+                    "city": "Cartagena, Murcia",
+                    "country": "Spain",
+                    "timezone": "+02:00"
+                  }
+                }
+              ],
+              "seriesId": 5847,
+              "seriesHomeCountry": 1,
+              "seriesCategory": "International"
+            }
+          ],
+          "longDate": "1677196800000"
+        }
+      },
+      {
+        "scheduleAdWrapper": {
+          "date": "SAT, FEB 25 2023",
+          "matchScheduleList": [
+            {
+              "seriesName": "England tour of New Zealand, 2023",
+              "matchInfo": [
+                {
+                  "matchId": 49563,
+                  "seriesId": 4413,
+                  "matchDesc": "2nd Test, Day 2",
+                  "matchFormat": "TEST",
+                  "startDate": "1677276000000",
+                  "endDate": "1677628799000",
+                  "team1": {
+                    "teamId": 13,
+                    "teamName": "New Zealand",
+                    "teamSName": "NZ",
+                    "isFullMember": true,
+                    "imageId": 172128
+                  },
+                  "team2": {
+                    "teamId": 9,
+                    "teamName": "England",
+                    "teamSName": "ENG",
+                    "isFullMember": true,
+                    "imageId": 172123
+                  },
+                  "venueInfo": {
+                    "ground": "Basin Reserve",
+                    "city": "Wellington",
+                    "country": "New Zealand",
+                    "timezone": "+13:00"
+                  }
+                }
+              ],
+              "seriesId": 4413,
+              "seriesHomeCountry": 1,
+              "seriesCategory": "International"
+            },
+            {
+              "seriesName": "Isle of Man tour of Spain, 2023",
+              "matchInfo": [
+                {
+                  "matchId": 65133,
+                  "seriesId": 5847,
+                  "matchDesc": "3rd T20I",
+                  "matchFormat": "T20",
+                  "startDate": "1677315600000",
+                  "endDate": "1677369599000",
+                  "team1": {
+                    "teamId": 523,
+                    "teamName": "Spain",
+                    "teamSName": "Spain",
+                    "imageId": 248450
+                  },
+                  "team2": {
+                    "teamId": 557,
+                    "teamName": "Isle of Man",
+                    "teamSName": "IOM",
+                    "imageId": 172609
+                  },
+                  "venueInfo": {
+                    "ground": "La Manga Club Bottom Ground",
+                    "city": "Cartagena, Murcia",
+                    "country": "Spain",
+                    "timezone": "+02:00"
+                  }
+                },
+                {
+                  "matchId": 65140,
+                  "seriesId": 5847,
+                  "matchDesc": "4th T20I",
+                  "matchFormat": "T20",
+                  "startDate": "1677330900000",
+                  "endDate": "1677369599000",
+                  "team1": {
+                    "teamId": 523,
+                    "teamName": "Spain",
+                    "teamSName": "Spain",
+                    "imageId": 248450
+                  },
+                  "team2": {
+                    "teamId": 557,
+                    "teamName": "Isle of Man",
+                    "teamSName": "IOM",
+                    "imageId": 172609
+                  },
+                  "venueInfo": {
+                    "ground": "La Manga Club Bottom Ground",
+                    "city": "Cartagena, Murcia",
+                    "country": "Spain",
+                    "timezone": "+02:00"
+                  }
+                }
+              ],
+              "seriesId": 5847,
+              "seriesHomeCountry": 1,
+              "seriesCategory": "International"
+            },
+            {
+              "seriesName": "ICC Cricket World Cup League Two 2019-23",
+              "matchInfo": [
+                {
+                  "matchId": 65396,
+                  "seriesId": 2834,
+                  "matchDesc": "2nd Match (Rescheduled)",
+                  "matchFormat": "ODI",
+                  "startDate": "1677303000000",
+                  "endDate": "1677369599000",
+                  "team1": {
+                    "teamId": 7,
+                    "teamName": "United Arab Emirates",
+                    "teamSName": "UAE",
+                    "imageId": 172121
+                  },
+                  "team2": {
+                    "teamId": 161,
+                    "teamName": "Namibia",
+                    "teamSName": "NAM",
+                    "imageId": 172229
+                  },
+                  "venueInfo": {
+                    "ground": "Dubai International Cricket Stadium",
+                    "city": "Dubai",
+                    "country": "United Arab Emirates",
+                    "timezone": "+04:00"
+                  }
+                }
+              ],
+              "seriesId": 2834,
+              "seriesHomeCountry": 1,
+              "seriesCategory": "International"
+            }
+          ],
+          "longDate": "1677283200000"
+        }
+      }
+    ],
+    "startDt": [
+      "1676509200000",
+      "1676606400000",
+      "1676862900000",
+      "1676949300000",
+      "1676966400000",
+      "1677130200000",
+      "1677189600000",
+      "1677229200000",
+      "1677244500000",
+      "1677315600000",
+      "1677330900000",
+      "1677303000000",
+      "1677400200000",
+      "1677415500000",
+      "1677475800000",
+      "1677571200000",
+      "1677562200000",
+      "1677643200000",
+      "1677659400000",
+      "1677735000000",
+      "1677832200000",
+      "1677821400000",
+      "1677880800000",
+      "1677994200000",
+      "1678091400000",
+      "1678080600000",
+      "1678262400000",
+      "1678312800000",
+      "1678334400000",
+      "1678363200000",
+      "1678331700000",
+      "1678418100000",
+      "1678622400000",
+      "1678590900000",
+      "1678677300000",
+      "1678795200000",
+      "1678869000000",
+      "1678850100000",
+      "1678964400000",
+      "1678936500000",
+      "1679004000000",
+      "1679041800000",
+      "1679137200000",
+      "1679128200000",
+      "1679214600000",
+      "1679301000000",
+      "1679385600000",
+      "1679473800000",
+      "1679560200000",
+      "1679706000000",
+      "1679745600000",
+      "1679832000000",
+      "1679918400000",
+      "1679965200000",
+      "1680019200000",
+      "1680091200000",
+      "1680224400000",
+      "1680260400000",
+      "1680264000000",
+      "1680393600000",
+      "1680422400000",
+      "1680579000000",
+      "1680652800000",
+      "1680912000000",
+      "1681396200000",
+      "1681569000000",
+      "1681655400000",
+      "1681792200000",
+      "1681914600000",
+      "1682260200000",
+      "1682501400000",
+      "1682499600000",
+      "1682674200000",
+      "1682672400000",
+      "1682933400000",
+      "1683192600000",
+      "1683451800000",
+      "1685613600000",
+      "1686132000000",
+      "1686909600000",
+      "1687946400000",
+      "1688637600000",
+      "1689760800000",
+      "1690452000000",
+      "1693414800000",
+      "1693587600000",
+      "1693747800000",
+      "1693933200000",
+      "1694172600000",
+      "1694340000000",
+      "1694604600000",
+      "1694777400000",
+      "1695209400000",
+      "1695463200000",
+      "1695727800000"
+    ],
+    "appIndex": {
+      "seoTitle": "Cricket Schedule - International, domestic and T20 matches - Cricbuzz",
+      "webURL": "www.cricbuzz.com/cricket-schedule/series"
+    }
+  }

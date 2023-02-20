@@ -1,0 +1,108 @@
+{
+    "rank": [
+      {
+        "id": "2",
+        "rank": "1",
+        "name": "India",
+        "rating": "267",
+        "matches": "69",
+        "points": "18445",
+        "lastUpdatedOn": "2023-02-19",
+        "imageId": "172115"
+      },
+      {
+        "id": "9",
+        "rank": "2",
+        "name": "England",
+        "rating": "266",
+        "matches": "49",
+        "points": "13029",
+        "lastUpdatedOn": "2023-02-19",
+        "imageId": "172123"
+      },
+      {
+        "id": "3",
+        "rank": "3",
+        "name": "Pakistan",
+        "rating": "258",
+        "matches": "55",
+        "points": "14168",
+        "lastUpdatedOn": "2023-02-19",
+        "imageId": "172116"
+      },
+      {
+        "id": "11",
+        "rank": "4",
+        "name": "South Africa",
+        "rating": "256",
+        "matches": "41",
+        "points": "10510",
+        "lastUpdatedOn": "2023-02-19",
+        "imageId": "172126"
+      },
+      {
+        "id": "13",
+        "rank": "5",
+        "name": "New Zealand",
+        "rating": "252",
+        "matches": "53",
+        "points": "13371",
+        "lastUpdatedOn": "2023-02-19",
+        "imageId": "172128"
+      },
+      {
+        "id": "4",
+        "rank": "6",
+        "name": "Australia",
+        "rating": "251",
+        "matches": "47",
+        "points": "11784",
+        "lastUpdatedOn": "2023-02-19",
+        "imageId": "172117"
+      },
+      {
+        "id": "10",
+        "rank": "7",
+        "name": "West Indies",
+        "rating": "236",
+        "matches": "51",
+        "points": "12039",
+        "lastUpdatedOn": "2023-02-19",
+        "imageId": "172124"
+      },
+      {
+        "id": "5",
+        "rank": "8",
+        "name": "Sri Lanka",
+        "rating": "236",
+        "matches": "53",
+        "points": "12485",
+        "lastUpdatedOn": "2023-02-19",
+        "imageId": "172119"
+      },
+      {
+        "id": "6",
+        "rank": "9",
+        "name": "Bangladesh",
+        "rating": "222",
+        "matches": "51",
+        "points": "11328",
+        "lastUpdatedOn": "2023-02-19",
+        "imageId": "172120"
+      },
+      {
+        "id": "96",
+        "rank": "10",
+        "name": "Afghanistan",
+        "rating": "217",
+        "matches": "30",
+        "points": "6512",
+        "lastUpdatedOn": "2023-02-19",
+        "imageId": "172188"
+      }
+    ],
+    "appIndex": {
+      "seoTitle": "ICC Cricket Rankings - Top 100 Batsmen | Cricbuzz.com",
+      "webURL": "www.cricbuzz.com/cricket-stats/icc-rankings"
+    }
+  }

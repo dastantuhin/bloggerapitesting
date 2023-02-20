@@ -1,0 +1,203 @@
+{
+    "storyList": [
+        {
+            "story": {
+                "id": 125610,
+                "hline": "Kyle Jamieson to undergo back surgery",
+                "intro": "The New Zealand fast bowler is likely to be out of action for up to four months",
+                "pubTime": "1676864965690",
+                "source": "Cricbuzz",
+                "storyType": "News",
+                "imageId": 255577,
+                "seoHeadline": "Kyle Jamieson to undergo back surgery",
+                "context": "On the sidelines",
+                "coverImage": {
+                    "id": "255577",
+                    "caption": "Jamieson suffered a relapse of the back injury that hampered him on the tour of England last year.",
+                    "source": "Getty"
+                }
+            }
+        },
+        {
+            "ad": {
+                "name": "native_news_index",
+                "layout": "native_large",
+                "position": 1
+            }
+        },
+        {
+            "story": {
+                "id": 125609,
+                "hline": "Cummins flies home for personal reasons, will return for Indore Test",
+                "intro": "There is a nine-day gap to the start of the third Test of the Border-Gavaskar series",
+                "pubTime": "1676864686517",
+                "source": "Cricbuzz",
+                "storyType": "News",
+                "imageId": 255576,
+                "seoHeadline": "Cummins flies home for personal reasons, will return for Indore Test",
+                "context": "Border-Gavaskar Test series, 2023",
+                "coverImage": {
+                    "id": "255576",
+                    "caption": "Pat Cummins will rejoin the team ahead of the third Test in Indore.",
+                    "source": "AFP"
+                }
+            }
+        },
+        {
+            "story": {
+                "id": 125608,
+                "hline": "Hathurusigha's Bangladesh 2.0: The challenges ahead",
+                "intro": "As Chandika Hathurusingha returns to coach the men's Bangladesh national side, here are a few challenges that he faces",
+                "pubTime": "1676858894154",
+                "source": "Cricbuzz",
+                "storyType": "Features",
+                "imageId": 255574,
+                "seoHeadline": "Hathurusigha's Bangladesh 2.0: The challenges ahead",
+                "context": "Second Stint",
+                "coverImage": {
+                    "id": "255574",
+                    "caption": "Can Chandika Hathurusingha's second stint with Bangladesh yield success?",
+                    "source": "Getty"
+                }
+            }
+        },
+        {
+            "story": {
+                "id": 125607,
+                "hline": "West Indies win battle of the outgoers, New Zealand keep South Africa in",
+                "intro": "Cricket was subject to the 'Paarl template' on Sunday through a couple of unremarkable contests ",
+                "pubTime": "1676856134932",
+                "source": "Cricbuzz",
+                "storyType": "Match Features",
+                "imageId": 255572,
+                "seoHeadline": "West Indies win battle of the outgoers, New Zealand keep South Africa in",
+                "context": "ICC Women's T20 World Cup 2023",
+                "coverImage": {
+                    "id": "255572",
+                    "caption": "West Indies and Pakistan delivered a contest that was poor in quality but one that survived until the last delivery.",
+                    "source": "AFP"
+                }
+            }
+        },
+        {
+            "story": {
+                "id": 125606,
+                "hline": "NZ still alive after Kerr leads Sri Lanka rout",
+                "intro": "Sri Lanka were wrapped up for 60 whilst chasing a target of 163",
+                "pubTime": "1676837796546",
+                "source": "Cricbuzz",
+                "storyType": "Reports",
+                "imageId": 255571,
+                "seoHeadline": "NZ still alive after Kerr leads Sri Lanka rout",
+                "context": "ICC Women's T20 World Cup 2023 ",
+                "coverImage": {
+                    "id": "255571",
+                    "caption": "Sri Lanka were wrapped up for 60 whilst chasing a target of 163",
+                    "source": "AFP"
+                }
+            }
+        },
+        {
+            "ad": {
+                "name": "native_news_index_2",
+                "layout": "native_large",
+                "position": 5
+            }
+        },
+        {
+            "story": {
+                "id": 125605,
+                "hline": "'The decade belongs to Saurashtra' - Unadkat after Ranji Trophy win",
+                "intro": "The Saurashtra skipper led his side to their second Ranji Trophy title, beating Bengal by nine wickets in the final",
+                "pubTime": "1676830694450",
+                "source": "Cricbuzz",
+                "storyType": "Match Features",
+                "imageId": 255570,
+                "seoHeadline": "'The decade belongs to Saurashtra' - Unadkat after Ranji Trophy win",
+                "context": "Ranji Trophy final",
+                "coverImage": {
+                    "id": "255570",
+                    "caption": "\"Everyone will agree that Saurashtra at the moment are playing the best cricket of the era,\" Unadkat tells Cricbuzz",
+                    "source": "BCCI"
+                }
+            }
+        },
+        {
+            "story": {
+                "id": 125604,
+                "hline": "Matthews stars as West Indies clinch thriller against Pakistan",
+                "intro": "Having posted only 116/6, West Indies managed to restrict Pakistan to 113/5 as they registered their second successive win",
+                "pubTime": "1676827436396",
+                "source": "Cricbuzz",
+                "storyType": "Reports",
+                "imageId": 255569,
+                "seoHeadline": "Matthews stars as West Indies clinch thriller against Pakistan",
+                "context": "ICC Women's T20 World Cup, 2023",
+                "coverImage": {
+                    "id": "255569",
+                    "caption": "West Indies secured a thrilling win against Pakistan in a low-scoring game",
+                    "source": "AFP"
+                }
+            }
+        },
+        {
+            "story": {
+                "id": 125603,
+                "hline": "Bumrah yet to get NCA clearance; workload in IPL to be monitored",
+                "intro": "The pace bowler wasn't named in the Indian squads for the remaining two Tests and the ODI series against Australia",
+                "pubTime": "1676821963054",
+                "source": "Cricbuzz",
+                "storyType": "News",
+                "imageId": 255568,
+                "seoHeadline": "Bumrah yet to get NCA clearance; workload in IPL to be monitored",
+                "context": "On the road to fitness",
+                "coverImage": {
+                    "id": "255568",
+                    "caption": "Jasprit Bumrah wasn't named in the Indian squads for the remaining two Tests and the ODI series against Australia",
+                    "source": "Getty"
+                }
+            }
+        },
+        {
+            "story": {
+                "id": 125602,
+                "hline": "India make the most of Australia's sweep stumble",
+                "intro": "Australia, guilty of being too eager to play the sweep shot against the spinners, went from challenging India to being blown away in matter of over an hour at the Arun Jaitley Stadium",
+                "pubTime": "1676811228904",
+                "source": "Cricbuzz",
+                "storyType": "Match Features",
+                "imageId": 255567,
+                "seoHeadline": "India make the most of Australia's sweep stumble",
+                "context": "Border-Gavaskar Trophy, 2023",
+                "coverImage": {
+                    "id": "255567",
+                    "caption": "Smith was among the handful of batters who fell attempting the sweep shot in Australia's second innings.",
+                    "source": "AFP"
+                }
+            }
+        },
+        {
+            "story": {
+                "id": 125601,
+                "hline": "India pick Unadkat for Australia ODIs; Rohit to miss first game",
+                "intro": "For the remaining two Tests, India have stuck to the same squad ",
+                "pubTime": "1676809381725",
+                "source": "Cricbuzz",
+                "storyType": "News",
+                "imageId": 255561,
+                "seoHeadline": "India pick Unadkat for Australia ODIs; Rohit to miss first game",
+                "context": "Australia tour of India, 2023",
+                "coverImage": {
+                    "id": "255561",
+                    "caption": "Rohit will miss the first ODI due to family commitments",
+                    "source": "Getty"
+                }
+            }
+        }
+    ],
+    "lastUpdatedTime": "1676865787871",
+    "appIndex": {
+        "seoTitle": "Latest and breaking Cricket News - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/cricket-news"
+    }
+}
